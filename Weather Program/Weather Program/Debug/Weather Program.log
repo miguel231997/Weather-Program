@@ -1,0 +1,6 @@
+﻿  WeatherMain.cpp
+c:\users\miguel\desktop\weather program\weather program\weather program\weathermain.cpp(15): warning C4101: 'dash': unreferenced local variable
+  matrix.cpp
+  Generating Code...
+  Weather Program.vcxproj -> C:\Users\Miguel\Desktop\Weather Program\Weather Program\Debug\Weather Program.exe
+  Weather Program.vcxproj -> C:\Users\Miguel\Desktop\Weather Program\Weather Program\Debug\Weather Program.pdb (Full PDB)
